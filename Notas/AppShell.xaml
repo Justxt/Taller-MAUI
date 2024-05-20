@@ -7,14 +7,15 @@
     Shell.FlyoutBehavior="Disabled"
     Title="Notas">
 
+
     <TabBar>
         <ShellContent
-            Title="Notes"
+            Title="NOTAS"
             ContentTemplate="{DataTemplate local:Pages.AllNotes}"
             Icon="{OnPlatform 'icon_notes.png', iOS='icon_notes_ios.png', MacCatalyst='icon_notes_ios.png'}" />
 
         <ShellContent
-            Title="About"
+            Title="ACERCA DE"
             ContentTemplate="{DataTemplate local:Pages.AboutPage}"
             Icon="{OnPlatform 'icon_about.png', iOS='icon_about_ios.png', MacCatalyst='icon_about_ios.png'}" />
     </TabBar>

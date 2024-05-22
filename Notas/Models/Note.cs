@@ -13,6 +13,10 @@ namespace Notas.Models
         public string Text { get; set; }
         public DateTime Date { get; set; }
 
+        //metodo para mostrar la fecha actual con hora, en un builder de texto
+        public string DisplayDateAndTime => Date.ToString("dd/MM/yyyy HH:mm");
+
+
         public string DisplayDate
         {
             get

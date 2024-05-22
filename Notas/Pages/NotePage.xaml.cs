@@ -27,10 +27,21 @@ public partial class NotePage : ContentPage
     private async void SaveButton_Clicked(object sender, EventArgs e)
     {
         if (BindingContext is Models.Note note)
-            File.WriteAllText(note.Filename, TextEditor.Text);
+        {
+            // Obtiene el titulo de la nota
+            string title = note.Title;
+
+            // crea el archivo con el nombre de la nota
+            string filename = $"{title}.notes.txt";
+
+            // Guardar el texto en el archivo
+            File.WriteAllText(Path.Combine(FileSystem.AppDataDirectory, filename), TextEditor.Text);
+        }
 
         await Shell.Current.GoToAsync("..");
     }
+
+
 
     private async void DeleteButton_Clicked(object sender, EventArgs e)
     {

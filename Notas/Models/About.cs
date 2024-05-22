@@ -10,7 +10,7 @@ namespace Notas.Models
     {
         public string Title => AppInfo.Name;
         public string Nombre => "Justin Mora";
-        public string MoreInfoUrl => "https://aka.ms/maui";
-        public string Message => "Hola mi nombres es Justin, pero me dicen Juss o Mateo, me gusta programar, me gustan los videojuegos y escuchar musica. Mi deporte favorito es nadar y voy al gym.";
+        public string MoreInfoUrl => "https://github.com/justxt";
+        public string Message => "Hola mi nombres es Justin, pero me dicen Juss o Mateo, me gusta programar, me gustan los videojuegos y escuchar musica. Mi deporte favorito es nadar y voy al gym. PD: PUSE A ESE INSANO DE LA FOTO PQ SOY YO";
     }
 }

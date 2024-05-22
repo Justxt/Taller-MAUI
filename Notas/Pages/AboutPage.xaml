@@ -3,21 +3,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:models="clr-namespace:Notas.Models"
              x:Class="Notas.Pages.AboutPage"
-             Title="AboutPage">
+             Title="Acerca de" BackgroundColor="AliceBlue">
     
     <ContentPage.BindingContext>
         <models:About />
     </ContentPage.BindingContext>
     <VerticalStackLayout Spacing="10" Margin="10">
-        <HorizontalStackLayout Spacing="10">
-            <Image Source="dotnet_bot.png"
-                   SemanticProperties.Description="The dot net bot waving hello!"
-                   HeightRequest="64" />
-            <Label FontSize="22" FontAttributes="Bold" Text="{Binding Title}" VerticalOptions="End" />
+        <HorizontalStackLayout Spacing="10" Margin="5" HorizontalOptions="Center">
             <Label FontSize="22" Text="{Binding Nombre}" VerticalOptions="End" />
         </HorizontalStackLayout>
+        <Image Source="gatico.jpg"
+                   SemanticProperties.Description="The dot net bot waving hello!"
+                   HeightRequest="300" />
 
         <Label Text="{Binding Message}" Margin="20" />
-        <Button Text="Aprende MAUI JE" Clicked="LearnMore_Clicked" />
+        <Button Text="CORRE A MI GITHUB!" Clicked="LearnMore_Clicked" />
     </VerticalStackLayout>
 </ContentPage>

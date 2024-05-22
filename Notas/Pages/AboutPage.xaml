@@ -14,10 +14,10 @@
                    SemanticProperties.Description="The dot net bot waving hello!"
                    HeightRequest="64" />
             <Label FontSize="22" FontAttributes="Bold" Text="{Binding Title}" VerticalOptions="End" />
-            <Label FontSize="22" Text="{Binding Version}" VerticalOptions="End" />
+            <Label FontSize="22" Text="{Binding Nombre}" VerticalOptions="End" />
         </HorizontalStackLayout>
 
-        <Label Text="{Binding Message}" />
-        <Button Text="Learn more..." Clicked="LearnMore_Clicked" />
+        <Label Text="{Binding Message}" Margin="20" />
+        <Button Text="Aprende MAUI JE" Clicked="LearnMore_Clicked" />
     </VerticalStackLayout>
 </ContentPage>

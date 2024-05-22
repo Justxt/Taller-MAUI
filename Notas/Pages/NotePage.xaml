@@ -4,6 +4,11 @@
              x:Class="Notas.Pages.NotePage"
              Title="NotePage">
     <VerticalStackLayout Spacing="10" Margin="5">
+
+        <Editor x:Name="TitleEditor"
+                Placeholder="Título"
+                Text="{Binding Title}" />
+
         <Editor x:Name="TextEditor"
                 Placeholder="Escribe tu nota"
                 Text="{Binding Text}"

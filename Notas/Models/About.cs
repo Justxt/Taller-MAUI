@@ -9,8 +9,8 @@ namespace Notas.Models
     internal class About
     {
         public string Title => AppInfo.Name;
-        public string Version => AppInfo.VersionString;
+        public string Nombre => "Justin Mora";
         public string MoreInfoUrl => "https://aka.ms/maui";
-        public string Message => "This app is written in XAML and C# with .NET MAUI.";
+        public string Message => "Hola mi nombres es Justin, pero me dicen Juss o Mateo, me gusta programar, me gustan los videojuegos y escuchar musica. Mi deporte favorito es nadar y voy al gym.";
     }
 }

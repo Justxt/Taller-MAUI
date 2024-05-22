@@ -31,6 +31,7 @@ namespace Notas.Models
                                         .Select(filename => new Note()
                                         {
                                             Filename = filename,
+                                            Title = File.ReadAllText(filename).Split('\n')[0],
                                             Text = File.ReadAllText(filename),
                                             Date = File.GetLastWriteTime(filename)
                                         })

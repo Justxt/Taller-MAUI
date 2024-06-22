@@ -4,10 +4,9 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:Notas"
-    xmlns:localPages="clr-namespace:Notas.Pages"
+    xmlns:localPages="clr-namespace:Notas.Views"
     Shell.FlyoutBehavior="Disabled"
     Title="Notas">
-
 
 
     <TabBar>

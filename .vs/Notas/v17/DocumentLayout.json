@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|c:\\users\\josti\\source\\repos\\taller-maui\\notas\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|solutionrelative:notas\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|c:\\users\\josti\\source\\repos\\taller-maui\\notas\\viewmodels\\noteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|solutionrelative:notas\\viewmodels\\noteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|c:\\users\\josti\\source\\repos\\taller-maui\\notas\\viewmodels\\notesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|solutionrelative:notas\\viewmodels\\notesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|c:\\users\\josti\\source\\repos\\taller-maui\\notas\\views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|solutionrelative:notas\\views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|c:\\users\\josti\\source\\repos\\taller-maui\\notas\\views\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|solutionrelative:notas\\views\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|c:\\users\\josti\\source\\repos\\taller-maui\\notas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|solutionrelative:notas\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|c:\\users\\josti\\source\\repos\\taller-maui\\notas\\views\\allnotes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F805B2C-7D80-4189-A1FC-F30D9DC48DAC}|Notas\\Notas.csproj|solutionrelative:notas\\views\\allnotes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\ViewModels\\AboutViewModel.cs",
+              "RelativeDocumentMoniker": "Notas\\ViewModels\\AboutViewModel.cs",
+              "ToolTip": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\ViewModels\\AboutViewModel.cs",
+              "RelativeToolTip": "Notas\\ViewModels\\AboutViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T00:01:14.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\ViewModels\\NoteViewModel.cs",
+              "RelativeDocumentMoniker": "Notas\\ViewModels\\NoteViewModel.cs",
+              "ToolTip": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\ViewModels\\NoteViewModel.cs",
+              "RelativeToolTip": "Notas\\ViewModels\\NoteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T00:01:13.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\ViewModels\\NotesViewModel.cs",
+              "RelativeDocumentMoniker": "Notas\\ViewModels\\NotesViewModel.cs",
+              "ToolTip": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\ViewModels\\NotesViewModel.cs",
+              "RelativeToolTip": "Notas\\ViewModels\\NotesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T00:01:12.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "Notas\\Views\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\Views\\AboutPage.xaml",
+              "RelativeToolTip": "Notas\\Views\\AboutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T00:01:09.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotePage.xaml",
+              "DocumentMoniker": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\Views\\NotePage.xaml",
+              "RelativeDocumentMoniker": "Notas\\Views\\NotePage.xaml",
+              "ToolTip": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\Views\\NotePage.xaml",
+              "RelativeToolTip": "Notas\\Views\\NotePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T00:01:07.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\App.xaml",
+              "RelativeDocumentMoniker": "Notas\\App.xaml",
+              "ToolTip": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\App.xaml",
+              "RelativeToolTip": "Notas\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T00:01:07.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllNotes.xaml",
+              "DocumentMoniker": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\Views\\AllNotes.xaml",
+              "RelativeDocumentMoniker": "Notas\\Views\\AllNotes.xaml",
+              "ToolTip": "C:\\Users\\josti\\source\\repos\\Taller-MAUI\\Notas\\Views\\AllNotes.xaml",
+              "RelativeToolTip": "Notas\\Views\\AllNotes.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T23:48:04.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
